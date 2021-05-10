@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Naman Garg
+- 👀 I’m interested in Data Structure and Algorithms
+- 🌱 I’m currently learning DS-Algo
