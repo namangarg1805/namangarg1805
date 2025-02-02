@@ -2,4 +2,4 @@
 - 👀 I’m interested In:
 -    1. Data Science
 -    2. Robotics   
-- 🌱 I’m currently learning Data Science.
+
